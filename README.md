@@ -50,7 +50,7 @@ With guidance from tools like ChatGPT, Claude, and Gemini, I improved the UI and
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/ReportGen-Java.git
+   git clone https://github.com/your-username/ReportGen.git
    ```
 2. Open the project in any Java IDE (IntelliJ, Eclipse, NetBeans)
 3. Compile and run the main Java file
