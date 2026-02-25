@@ -1,7 +1,3 @@
-Here’s a clean, professional **GitHub README.md** you can paste directly into your repo 👇
-
----
-
 # ReportGen – Student Report Card Management System (Core Java)
 
 ## 📌 Project Overview
@@ -49,17 +45,6 @@ With guidance from tools like ChatGPT, Claude, and Gemini, I improved the UI and
 
 ---
 
-## 🖥️ Screenshots
-
-(You can add your screenshots here)
-Example:
-
-* Admin Login Window
-* Dashboard Interface
-* Report Generation Panel
-
----
-
 ## 📂 How to Run
 
 1. Clone the repository
@@ -103,7 +88,3 @@ This project was enhanced using AI tools like ChatGPT, Claude, and Gemini for le
 ## 📬 Contact
 
 If you have suggestions or want to collaborate, feel free to connect with me on LinkedIn.
-
----
-
-If you want, I can also make a **short README**, **professional portfolio-style README**, or **college project report style README**.
